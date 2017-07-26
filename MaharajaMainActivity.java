@@ -1,3 +1,6 @@
+Hello this is test git repo
+
+
 package com.example.maharaja;
 
 import android.support.v7.app.ActionBarActivity;
